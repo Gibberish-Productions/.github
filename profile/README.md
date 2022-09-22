@@ -1,4 +1,3 @@
-[](https://avatars.githubusercontent.com/u/114172488?s=60&v=4)
 # JevCraft Studios
 **Created by Jevalent**
 
