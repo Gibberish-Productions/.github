@@ -10,6 +10,7 @@ snowballs to a utility plugin!
 
 ## Datapacks
 JevCraft Utilities - a utility datapack
+
 Explodiballs - Exploding snowballs datapack
 
 And more to come!
